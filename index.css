@@ -1,0 +1,40 @@
+.div-1{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+.pic1>img{
+    height: 350px;
+    width: 350px;
+}
+.pic2>img{
+    height: 350px;
+    width: 350px;
+}
+.pic3>img{
+    height: 350px;
+    width: 350px;
+}
+.pic4>img{
+    height: 350px;
+    width: 350px;
+}
+.div-2{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+.div-3{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+.div-4{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
